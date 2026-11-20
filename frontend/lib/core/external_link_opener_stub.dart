@@ -1,0 +1,1 @@
+Future<void> openExternalUrlPlatform(String url) async {}
